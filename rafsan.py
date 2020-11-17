@@ -32,7 +32,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = " \x1b[31;1m█████████\n \x1b[31;1m█▄█████▄█         \x1b[0;31m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[31;1m█ \x1b[1;91m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;33m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[31;1m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;33m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;97m█ \x1b[1;91m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;33m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[37;1mhami /ahmer\n \x1b[1;97m█████████         \x1b[0;36m«==========✧==========»\n \x1b[1;97m ██ ██\n \x1b[1;97m╔══════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mAdmin  \x1b[1;91m : \x1b[1;96m HAMI HACKING04   \x1b[1;97m                ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m \x1b[92mhttps://github.com/aliahmer12s\x1b[ \x1b[1;97m      ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mWA      \x1b[1;91m:  \x1b[1;92\x1b[92m+923179633513\x1b[     \x1b[1;97m                    ║   \n \x1b[1;97m╚══════════════════════════════════════════════════╝"             '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1Mwe are the team of hackerz from pakistan \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mYou CAN ASK ANY QUESTION ON MY WHATSAPP \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1This Comands was designed for hamid by ahmer\x1b[1;91m[\xe2\x98\x86]'
+logo = " \x1b[31;1m█████████\n \x1b[31;1m█▄█████▄█         \x1b[0;31m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[31;1m█ \x1b[1;91m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;33m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[31;1m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;33m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;97m█ \x1b[1;91m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;33m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[37;1mRafsan /Islam\n \x1b[1;97m█████████         \x1b[0;36m«==========✧==========»\n \x1b[1;97m ██ ██\n \x1b[1;97m╔══════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mAdmin  \x1b[1;91m : \x1b[1;96m RAFSAN ISLAM   \x1b[1;97m                ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m \x1b[92mhttps://github.com/HaCkKaka\x1b[ \x1b[1;97m      ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mWA      \x1b[1;91m:  \x1b[1;92\x1b[92m+8801781900463\x1b[     \x1b[1;97m                    ║   \n \x1b[1;97m╚══════════════════════════════════════════════════╝"             '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1Mwe are the team of hackerz from Bangladesh \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1mYou CAN ASK ANY QUESTION ON MY WHATSAPP \x1b[1;91m[\xe2\x98\x86]' '\n \x1b[1;91m[\xe2\x98\x86] \x1b[37;1FuckSystem\x1b[1;91m[\xe2\x98\x86]'
 
 
 def tik():
@@ -57,8 +57,8 @@ em = []
 emfromfriends = []
 hp = []
 hpfromfriends = []
-reaksi = []
-reaksigrup = []
+reaction = []
+group reaction = []
 komen = []
 komengrup = []
 listgrup = []
